@@ -1,0 +1,13 @@
+ h1{
+    text-align: center;
+    text-decoration: overline;
+    /* border: solid;
+    width: 50%; */
+    letter-spacing: 10px;
+ }
+ h2{
+    font-weight: 2000;
+ }
+ p{
+    font-weight: 400;
+ }
